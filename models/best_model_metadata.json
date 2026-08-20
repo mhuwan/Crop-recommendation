@@ -1,0 +1,10 @@
+{
+  "best_model_name": "Random Forest",
+  "model_file": "best_model.pkl",
+  "needs_label_encoder": false,
+  "label_encoder_file": null,
+  "accuracy": 0.9931818181818182,
+  "precision_macro": 0.9935064935064936,
+  "recall_macro": 0.993181818181818,
+  "f1_score_macro": 0.993177554153164
+}
