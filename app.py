@@ -49,14 +49,14 @@ st.set_page_config(
 # Presentation config — แก้ไขค่าด้านล่างนี้ให้เป็นข้อมูลจริงก่อนนำไป deploy/ส่งอาจารย์
 # (เป็นค่า placeholder ที่ยังไม่มีข้อมูลจริงอยู่ในโปรเจกต์ ไม่ได้สร้างข้อมูลเท็จขึ้นมาแสดงผล)
 # ---------------------------------------------------------------------------
-GITHUB_URL = "https://github.com/your-username/crop-recommendation-system"  # TODO: ใส่ลิงก์ GitHub repo จริง
+GITHUB_URL = "https://github.com/mhuwan/Crop-recommendation"  # TODO: ใส่ลิงก์ GitHub repo จริง
 YOUTUBE_URL = "https://youtube.com/watch?v=your-video-id"  # TODO: ใส่ลิงก์ YouTube วิดีโอสาธิตจริง
 
 DEVELOPER_INFO = {
-    "full_name": "(ยังไม่ได้กรอกชื่อ-นามสกุล)",       # TODO: ใส่ชื่อ-นามสกุลจริง
-    "student_id": "(ยังไม่ได้กรอกรหัสนักศึกษา)",       # TODO: ใส่รหัสนักศึกษาจริง
-    "group": "(ยังไม่ได้กรอกหมู่เรียน)",               # TODO: ใส่หมู่เรียนจริง
-    "photo_path": None,  # TODO: ใส่ path รูปถ่าย เช่น "assets/developer.jpg" ถ้ามีไฟล์รูป
+    "full_name": "(สันคิ คล้ายจินดา)",       # TODO: ใส่ชื่อ-นามสกุลจริง
+    "student_id": "(664245047)",       # TODO: ใส่รหัสนักศึกษาจริง
+    "group": "(66/44)",               # TODO: ใส่หมู่เรียนจริง
+    "photo_path": "assets/profile.jpg"  # TODO: ใส่ path รูปถ่าย เช่น "assets/developer.jpg" ถ้ามีไฟล์รูป
 }
 
 PAGES = [
